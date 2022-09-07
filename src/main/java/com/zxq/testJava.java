@@ -12,5 +12,6 @@ public class testJava {
         System.out.println("xxxx");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("pull test");
     }
 }
