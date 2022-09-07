@@ -11,5 +11,6 @@ public class testJava {
         System.out.println("hello,git");
         System.out.println("xxxx");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
